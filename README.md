@@ -1,4 +1,4 @@
-# FoodMenuAR
+# DISHART
 ## DESCRIPTION
 This is a basic implementation of an AR menu.  
 This project isn't for production, it covers the goals that I conceived and are described below. Therefore, some parts of this project may seem strange to you. You are free to use it for any purposes and adapt it according to your needs.  
